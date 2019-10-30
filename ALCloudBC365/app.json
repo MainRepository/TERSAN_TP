@@ -1,0 +1,24 @@
+{
+  "id": "4b333626-91de-46c4-84d7-99a7f9275c4b",
+  "name": "FattWinWaste",
+  "publisher": "Altavilla",
+  "brief": "",
+  "description": "TERSAN Fatturazione WinWaste",
+  "version": "1.0.0.21",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "showMyCode":true,
+  "idRange": {
+    "from": 50100,
+    "to": 51149
+  },
+  "runtime": "2.2"  
+}
